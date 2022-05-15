@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Project Background
-Louise wanted to start a Crowdfunding campaing to help fund her play called Fever and had en estimated budget of $10,000. I was given the task to help her analyze Crowdfunding data form previous campaigns to determine if there were specific factors that make projects campaign successful and provide her insights so she could plan her own campaign and be successful.
+Louise wanted to start a Crowdfunding campaing to help fund her play called Fever and had en estimated budget of $10,000. I was given the task to help her analyze Crowdfunding data from previous campaigns to determine if there were specific factors that make projects campaign successful and provide her insights so she could plan her own campaign and be successful.
 ### Previous Work and Results
 During the initial work, I was able to use excel to analyze campaigns data and provide Louise a better understanding of similar campaigns from start to finish so she could leverage and apply learnings from those campaigns. Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared with respect to their launch date and their funding goals.
 ### Purpose of Analysis
