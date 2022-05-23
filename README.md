@@ -14,7 +14,7 @@ The objective of the analysis is to understand how different campaigns within Lo
 In order to complete the task, two separate analysis of the data was performed based on launch date and funding goals using the Kickstarted data sheet 
 
 Link to spreadsheet
-[Kickstarter_Challenge.xlsx.zip](/Users/jesuscapo/Desktop/Rice Bootcamp_Analysis Projects/Module 1/Challenge/Kickstarter_Challenge.xlsx.zip)
+[Kickstarter_Challenge.xlsx.zip](Challenge/Kickstarter_Challenge.xlsx.zip)
 
 ### Analysis of Outcomes Based on Launch Date
 To understand how campaigns performed based on launch date, I created a line plot to visualize the campaigns outcome (successful, failed and canceled) vs their launch date.
