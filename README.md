@@ -37,8 +37,8 @@ To come up with the data used for plotting, the following workflow was used:
 * Calculated total projects and estimated the percentage of the campaigns outcome based on the total projects for each range
 * Inserted a line plot to display the Outcomes Based on Goals
 
-Link to Plot
-![Theater_Outcomes_vs_Launch](/Users/jesuscapo/Desktop/Rice Bootcamp_Analysis Projects/Module 1/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
+Theater Outcomes vs Launch Plot
+![](Theater_Outcomes_vs_Launch.png)
 
 ### Challenges
 The time to populate the number of successful, failed and canceled campaigns in the Outcome Based on Goals analysis was more than I expected due to the lack of experience using the COUNTIFS function.
