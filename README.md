@@ -25,8 +25,8 @@ To come up with the data used for plotting, the following workflow was used:
 * The pivot table was filtered by Theater which is Louise's campaign category
 * Inserted a line plot to display the Theater Outcomes Based On Launch Date
 
-Link to Plot
-![Theater_Outcomes_vs_Launch](/Users/jesuscapo/Desktop/Rice Bootcamp_Analysis Projects/Module 1/Challenge/Resources/Theater_Outcomes_vs_Launch.png)
+Theater Outcomes vs Launch Date Plot
+![](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To understand how campaigns performed based on funding goals, I created a line plot to visualize the campaigns outcome (successful, failed and canceled) vs funding goals.
@@ -37,8 +37,8 @@ To come up with the data used for plotting, the following workflow was used:
 * Calculated total projects and estimated the percentage of the campaigns outcome based on the total projects for each range
 * Inserted a line plot to display the Outcomes Based on Goals
 
-Theater Outcomes vs Launch Plot
-![](Theater_Outcomes_vs_Launch.png)
+Theater Outcomes vs Goals Plot
+![](Outcomes_vs_Goals.png)
 
 ### Challenges
 The time to populate the number of successful, failed and canceled campaigns in the Outcome Based on Goals analysis was more than I expected due to the lack of experience using the COUNTIFS function.
